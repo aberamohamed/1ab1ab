@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @1ab1ab
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning computer programing in app factory
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+      I'm Abera Mohamed Yasin
 
-<!---
-1ab1ab/1ab1ab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 I’m currently work at PUNGKOOK Ethiopa 
+🔭 I’m currently working on Laravel
+🌱 I’m currently learning jquery
+👯 I’m looking to collaborate on Blog
+📫 How to reach me: Phone - 0919573809
+😄 Pronouns: He/His
+⚡ Fun fact: I spend almost 8 hours to developing to 6 Days of Week.
