@@ -1,8 +1,9 @@
-      I'm Abera Mohamed Yasin
+ I'm Abera Mohammed Yassin
 
-🔭 I’m currently work at PUNGKOOK Ethiopa 
+🔭 I’m currently work at DSP Consultancy 
 🔭 I’m currently working on Laravel
-🌱 I’m currently learning jquery
+🔭 I’m currently working on C#
+🌱 I’m currently learning React JS
 👯 I’m looking to collaborate on Blog
 📫 How to reach me: Phone - 0919573809
 😄 Pronouns: He/His
